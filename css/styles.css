@@ -1,0 +1,45 @@
+.navbar-brand{
+	font-size: 2em;
+	font-weight: 750;
+}
+
+.navbar{
+	background-color: lightgray;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 2px;
+}
+
+#nav-list li{
+	text-align: center;
+
+	font-weight: 600;
+}
+
+
+#nav-list li:nth-child(1){
+	margin-top: 0px;
+}
+
+
+#collapsable-nav{
+	background-color: gray;
+}
+
+.navbar-brand{
+	float: left;
+}
+
+#sample-content{
+	height: 1000px;
+	background-color: red;
+}
+
+#our-menu{
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+#main-content-container{
+	margin-bottom: 20px;
+}
